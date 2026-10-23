@@ -1,6 +1,6 @@
-﻿# Wallpaper Launcher - releases
+﻿# RGLauncher Windows Edition - releases
 
-Downloads for **Wallpaper Launcher**, a desktop-style game launcher for Windows that sits on top of your wallpaper
+Downloads for **RGLauncher Windows Edition**, a desktop-style game launcher for Windows that sits on top of your wallpaper
 (including Wallpaper Engine). Source code is private; this repo only hosts built releases.
 
 ## Install
@@ -21,4 +21,5 @@ The app updates itself: **Settings > Updates**. Releases marked *Pre-release* ar
 
 ## Uninstall
 
-Windows Settings > Apps > Wallpaper Launcher.
+Windows Settings > Apps > RGLauncher Windows Edition.
+
